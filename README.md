@@ -11,6 +11,7 @@
 * Use cases
 * Underlying goal
 * Examples
+* Setup
 
 ## Binding data to documents
 * Selections
